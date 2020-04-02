@@ -8,6 +8,8 @@ Version:        1.1
 
 Aenderungen:
 23.3.2020       Fehler korrigiert
+02.04.2020      Modul import, Funktion hinzugefügt, wiederholende cmdlets
+                entfernt
 
 #>
 ##########################################################################
